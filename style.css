@@ -149,6 +149,7 @@ button{
 }
 
 /* Edit Task */
+
 .list__item--editmode .list__input {
   display: inline-block;
   width: 224px;
